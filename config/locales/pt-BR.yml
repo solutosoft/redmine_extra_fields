@@ -1,0 +1,4 @@
+# encoding: utf-8
+# English strings go here for Rails i18n
+pt-BR:
+  label_password: Senha
